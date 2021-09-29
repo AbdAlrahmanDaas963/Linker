@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Linker/static/css/main.0cf1bb71.chunk.css",
+    "main.js": "/Linker/static/js/main.be61d319.chunk.js",
+    "main.js.map": "/Linker/static/js/main.be61d319.chunk.js.map",
+    "runtime-main.js": "/Linker/static/js/runtime-main.ff6b6542.js",
+    "runtime-main.js.map": "/Linker/static/js/runtime-main.ff6b6542.js.map",
+    "static/css/2.e7fe5a4e.chunk.css": "/Linker/static/css/2.e7fe5a4e.chunk.css",
+    "static/js/2.2666aada.chunk.js": "/Linker/static/js/2.2666aada.chunk.js",
+    "static/js/2.2666aada.chunk.js.map": "/Linker/static/js/2.2666aada.chunk.js.map",
+    "static/js/3.cbf5d16e.chunk.js": "/Linker/static/js/3.cbf5d16e.chunk.js",
+    "static/js/3.cbf5d16e.chunk.js.map": "/Linker/static/js/3.cbf5d16e.chunk.js.map",
+    "index.html": "/Linker/index.html",
+    "static/css/2.e7fe5a4e.chunk.css.map": "/Linker/static/css/2.e7fe5a4e.chunk.css.map",
+    "static/css/main.0cf1bb71.chunk.css.map": "/Linker/static/css/main.0cf1bb71.chunk.css.map",
+    "static/js/2.2666aada.chunk.js.LICENSE.txt": "/Linker/static/js/2.2666aada.chunk.js.LICENSE.txt",
+    "static/media/Great.395d1fae.png": "/Linker/static/media/Great.395d1fae.png",
+    "static/media/Tic.9728097f.png": "/Linker/static/media/Tic.9728097f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff6b6542.js",
+    "static/css/2.e7fe5a4e.chunk.css",
+    "static/js/2.2666aada.chunk.js",
+    "static/css/main.0cf1bb71.chunk.css",
+    "static/js/main.be61d319.chunk.js"
+  ]
+}
